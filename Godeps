@@ -1,4 +1,4 @@
-code.google.com/p/snappy-go/snappy      12e4b4183793ac4b061921e7980845e750679fd0
+github.com/scalingdata/snappy-go        6511ea6ae0341f4ce7b6f55db52271ac32f4787e
 github.com/BurntSushi/toml              2dff11163ee667d51dcc066660925a92ce138deb
 github.com/bitly/go-hostpool            58b95b10d6ca26723a7f46017b348653b825a8d6
 github.com/bitly/go-nsq                 5a2abdba46a853a75ccdeeead30ad34eabc4d72a # v1.0.3
